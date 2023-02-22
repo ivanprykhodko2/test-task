@@ -14,8 +14,7 @@ Start JSON Server
 json-server --watch db.json
 ```
 
-Link for full doc over here 
-<a href="https://github.com/typicode/json-server">
+[Link for full doc right here](https://github.com/typicode/json-server)
 
 # Starting React app
 
